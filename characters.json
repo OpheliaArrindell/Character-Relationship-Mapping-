@@ -1,0 +1,482 @@
+{
+    "Bella_Buckerfield": {
+        "role": "Main Character",
+        "age": 30,
+        "job": "Business Analyst",
+        "Race": "Black Caribbean",
+        "relationships": {
+            "Alex_Haynes": "Partner",
+            "Ben_Alcott": "Colleague, Lover",
+            "Kate_Anderson": "Friend, Unknown rival",
+            "Claire_Alcott": "Unknown Rival",
+            "Simon_Ashworth": "Colleague",
+            "Liana_Mendoza": "Friend, Colleague",
+            "Matilda_Fletcher": "Manager, Mentor",
+            "Simone_Green": "Mentor",
+            "Priya_Desai": "Colleague",
+            "Tom_Wainwright": "Colleague",
+            "Matthew_Harding": "Colleague"
+        },
+        "evolution": {
+            "1": {
+                "emotion": "Conflicted",
+                "relationship_status": "Partnered with Alex, attracted to Ben",
+                "bi_cycle_status": {
+                    "emotional_attraction (Alex)": 8,
+                    "emotional_attraction (Ben)": 1,
+                    "physical_attraction (Alex)": 9,
+                    "physical_attraction (Ben)": 5,
+                    "conflict_level (Alex)": 7,
+                    "conflict_level (Ben)": 0
+                },
+                "motivation": "Seeking fulfillment and clarity in life and relationships",
+                "internal_conflict": "Torn between loyalty to Alex and attraction to Ben",
+                "conflict_level (Alex)": 7,
+                "conflict_level (Ben)": 0,
+                "decision_making": "Logically driven",
+                "external_conflict": "Navigating professional boundaries and personal desires",
+                "growth": "Struggling to reconcile feelings with responsibilities",
+                "physical_health": "Healthy",
+                "mental_health": "Overwhelmed, introspective",
+                "appearance": "Professional yet alluring, with distinctive afro puff",
+                "self_image": "Confident but questioning internally",
+                "core_belief": "Values loyalty and integrity but is challenged by her actions",
+                "personal_goals": "Clarity in relationships and career direction",
+                "moral_conflict": "Fidelity vs. temptation",
+                "values": "Honesty, loyalty, and meaningful connections",
+                "key_events": "Encounters with Ben, arguments with Alex",
+                "conflict": "Emotional tension with Ben; guilt about Alex",
+                "actions": "Engages in emotionally charged connections with Ben"
+            },
+            "Sinking_Boat": {
+                "emotion": "Conflicted, Yearning, Passionate",
+                "relationship_status": "Complicated (partnered with Alex, attracted to Ben)",
+                "bi_cycle_status": {
+                    "emotional_attraction (Alex)": 8,
+                    "emotional_attraction (Ben)": 8,
+                    "physical_attraction (Alex)": 9,
+                    "physical_attraction (Ben)": 9,
+                    "conflict_level (Alex)": 10,
+                    "conflict_level (Ben)": 10
+                 },
+                "motivation": "Seeking emotional fulfillment beyond her current relationship",
+                "internal_conflict": "Torn between loyalty to Alex and attraction to Ben",
+                "decision_making": "Impulsive and influenced by emotional intensity",
+                "external_conflict": "Balancing professional boundaries with personal feelings",
+                "conflict_level (Alex)": 8,
+                "conflict_level (Ben)": 3,
+                "growth": "Struggling to navigate complex emotions and moral dilemmas",
+                "physical_health": "Healthy, no significant concerns noted",
+                "mental_health": "Overwhelmed, introspective and emotionally charged",
+                "appearance": "Elegant, alluring, with distinctive features such as braids and a toned physique",
+                "self_image": "Confident yet internally conflicted",
+                "core_belief":"Values honesty and loyalty but finds herself compromised",
+                "personal_goals": "Seeks clarity in life direction and emotional fulfillment",
+                "moral_conflict": "Struggling with fidelty and professional ethics ",
+                "values": "Loyalty, authenticity and deep connections",
+                "key_events": "Encounters with Ben, reflecting on her relationship with Alex",
+                "conflict": "Emotional tension with Ben and internal guilt regarding Alex",
+                "actions": "Engages in an emotionally and physically charged connection with Ben"
+            }
+        }
+    },
+    "Alex_Haynes": {
+        "role": "Partner to Bella_Buckerfield",
+        "age": 35,
+        "job": "Oncologist",
+        "Race": "Caucasian & Black Caribbean",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Partner, Friend",
+            "Ben_Alcott": "Unknown rival",
+            "Kate_Anderson": "Friend, Lover",
+            "Claire_Alcott": "Associate",
+            "Liana_Mendoza": "Associate",
+            "Matilda_Fletcher": "Associate"
+        },
+        "evolution": {
+            "1": {
+                "emotion": "Frustrated, Patient, Loving",
+                "relationship_status": "Partnered with Bella_Buckerfield for 10 years",
+                "motivation": "Building a family and maintaining a stable relationship",
+                "internal_conflict": "Balancing patience with frustration over Bella_Buckerfield’s hesitations",
+                "decision_making": " Thoughtful but emotionally influenced",
+                "external_conflict": "Managing relationship tensions with Bella_Buckerfield",
+                "growth": "Learning to navigate Bella_Buckerfield’s emotional state",
+                "physical_health": "Healthy",
+                "mental_health": "Occasionally stressed but loving",
+                "appearance": "Composed",
+                "self_image": " Confident, supportive partner",
+                "core_belief": "Believes in commitment and stability",
+                "personal_goals": "Starting a family with Bella_Buckerfield",
+                "moral_conflict": "Supporting Bella_Buckerfield while wanting clarity in the relationship",
+                "values": "Commitment, patience, family",
+                "key_events": " Discussions about family, conflicts with Bella_Buckerfield",
+                "conflict": " Frustration over Bella_Buckerfield’s reluctance about having a family",
+                "actions": "Apologizes after arguments, seeks reconciliation"
+            }
+        }
+    },
+    "Ben_Alcott": {
+        "role": "Colleague/Manager",
+        "age": 41,
+        "job": "Managing Director",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Upper class",
+        "relationships": {
+            "Bella_Buckerfield": "Direct Report, Lover",
+            "Claire_Alcott": "Spouse",
+            "Juliette_Alcott": "Daughter",
+            "Emmie_Alcott": "Daughter",
+            "Alex_Haynes": "Unknown rival",
+            "Simon_Ashworth": "Colleague",
+            "Liana_Mendoza": "Colleague",
+            "Matilda_Fletcher": "Colleague",
+            "Priya_Desai": "Colleague",
+            "Tom_Wainwright": "Colleague",
+            "Matthew_Harding": "Colleague"
+        },
+        "evolution": {
+            "1": {
+                "emotion": "Conflicted, Curious, Attracted",
+                "relationship_status": "Married",
+                "motivation": "Professional success and personal connection",
+                "internal_conflict": "Balancing professional demeanor with personal feelings",
+                "conflict_level (Bella_Buckerfield)": 0,
+                "decision_making": "Calculated but influenced by attraction",
+                "external_conflict": "Maintaining professionalism while drawn to Bella_Buckerfield",
+                "growth": " Recognizing boundaries in professional settings",
+                "physical_health": "Healthy",
+                "mental_health": "Composed but emotionally stirred",
+                "appearance": "Classic English handsomeness, polished",
+                "self_image": "Confident and poised",
+                "core_belief": "Values professionalism but feels drawn to Bella_Buckerfield",
+                "personal_goals": "Excelling in his career",
+                "moral_conflict": "Professional ethics vs. personal attraction",
+                "values": "Integrity, ambition",
+                "key_events": "Interactions with Bella_Buckerfield in shared spaces",
+                "conflict": "Professional boundaries and personal emotions",
+                "actions": "Attempts to engage with Bella_Buckerfield subtly, maintaining decorum"
+            },
+            "2": {
+                "emotion": "Passionate, Torn, Introspective",
+                "relationship_status": "Married",
+                "motivation": "Seeks to explore the unspoken connection with Bella_Buckerfield",
+                "internal_conflict": "Guilt about betraying Claire while drawn to Bella_Buckerfield",
+                "conflict_level (Bella_Buckerfield)": 3,
+                "decision_making": "Deliberate but often swayed by emotional intensity",
+                "external_conflict": "Balancing professional respectability with personal desires",
+                "growth": "Confronting his emotions and the potential fallout of his actions",
+                "physical_health": "Fit and disciplined",
+                "mental_health": "Conflicted, burdened by moral and emotional dilemmas",
+                "appearance": "Tall,well-built, with a polished professional demeanor",
+                "self_image": "Confident but grappling with guilt and self-awareness",
+                "core_belief":"Values integrity and professionalism but feels compromised",
+                "personal_goals": "To reconcile his feelings and responsibilities",
+                "moral_conflict": "Torn between his loyalty to Claire and his desire for Bella_Buckerfield",
+                "values": "Responsibility, loyalty and passion",
+                "key_events": "Emotional and physical connection with Bella_Buckerfield",
+                "conflict": "Torn between his marriage and growing feelings for Bella_Buckerfield",
+                "actions": "Pursues a relationship with Bella_Buckerfield despite concerns"
+            }
+        }
+    },
+    "Claire_Alcott": {
+        "role": "Ben's Spouse",
+        "age": 40,
+        "job": "Executive Search Consultant",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Upper Class",
+        "relationships": {
+            "Ben_Alcott": "Spouse",
+            "Bella_Buckerfield": "Unaware rival",
+            "Alex_Haynes": "Associate",
+            "Juliette_Alcott": "Daughter",
+            "Emmie_Alcott": "Daughter"
+        },
+        "evolution": {
+            "1": {
+               "emotion": "Supportive",
+               "relationship_status": "Married",
+               "motivation": "Undisclosed",
+               "internal_conflict": "Undisclosed",
+               "decision_making": "Undisclosed",
+               "external_conflict": "Undisclosed",
+               "growth": "Provides stable guidance and insight",
+               "physical_health": "Undisclosed",
+               "mental_health": "Undisclosed",
+               "appearance": "Undisclosed",
+               "self_image": "Undisclosed",
+               "core_belief": "Undisclosed",
+               "personal_goals": "Undisclosed",
+               "moral_conflict": "Undisclosed",
+               "values": "Undisclosed",
+               "key_events": "Undisclosed",
+               "conflict": "Undisclosed",
+               "actions": "Undisclosed"
+            }
+        }
+    },
+    "Juliette_Alcott": {
+        "role": "Ben and Claire's daughter",
+        "age": 7,
+        "job": "School",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Upper Class",
+        "relationships": {
+            "Ben_Alcott": "Dad",
+            "Claire_Alcott": "Mother",
+            "Emmie_Alcott": "Sister"
+        }
+    },
+    "Emmie_Alcott": {
+        "role": "Ben and Claire's daughter",
+        "age": 4,
+        "job": "School",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Upper Class",
+        "relationships": {
+            "Ben_Alcott": "Dad",
+            "Claire_Alcott": "Mother",
+            "Juliette_Alcott": "Sister"
+        }
+    },
+    "Matilda_Fletcher": {
+        "role": "Manager at SynergiTech",
+        "age": 45,
+        "job": "Managing Director",
+        "Race": "Caucasian",
+        "Ethnicity": "English",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Direct report, Mentee",
+            "Ben_Alcott": "Colleague",
+            "Alex_Haynes": "Associate",
+            "Liana_Mendoza": "Direct report",
+            "Simone_Green": "Colleague, Friend",
+            "Priya_Desai": "Colleague",
+            "Tom_Wainwright": "Colleague",
+            "Matthew_Harding": "Colleague"
+        },
+        "evolution": {
+            "1": {
+               "emotion": "Nurturing, professional, encouraging",
+                "relationship_status": "Undisclosed",
+                "motivation": " Cultivating a safe, inclusive and productive team environment",
+                "internal_conflict": "Balancing personal commitments with leadership duties",
+                "decision_making": "Thoughtful, empathetic and decisive",
+                "external_conflict": " Managing cross-team collaboration and client expectations",
+                "growth": "Continually mentoring and guiding team members",
+                "physical_health": "Healthy",
+                "mental_health": " Calm and focused, with an empathetic approach",
+                "appearance": "Professional and approachable",
+                "self_image": "A capable and respected leader",
+                "core_belief": "Leadership involves both strategy and compassion",
+                "personal_goals": "Ensuring the team thrives and the project succeeds",
+                "moral_conflict": "Supporting inclusivity while addressing professional challenges",
+                "values": "Empathy, leadership, and teamwork",
+                "key_events": "Mentoring Bella_Buckerfield, guiding the team through the project",
+                "conflict": "Undisclosed",
+                "actions": "Leads discussions, provides support and mentorship"
+            }
+        }
+    },
+    "Simone_Green": {
+        "role": "Mentor and Chief Executive",
+        "age": 48,
+        "job": "Chief Executive",
+        "Race": "Black Caribbean",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Matilda_Fletcher": "Colleague, Friend",
+            "Bella_Buckerfield": "Mentor",
+            "Ben_Alcott": "Colleague"
+        },
+        "evolution": {
+            "1": {
+               "emotion": "Wise, empathetic, supportive",
+                "relationship_status": "Undisclosed",
+                "motivation": "Empowering Bella_Buckerfield to achieve her full potential",
+                "internal_conflict": "Undisclosed",
+                "decision_making": "Undisclosed",
+                "external_conflict": "Undisclosed",
+                "growth": "Leveraging her journey to guide others",
+                "physical_health": "Undisclosed",
+                "mental_health": "Undisclosed",
+                "appearance": "Undisclosed",
+                "self_image": "Undisclosed",
+                "core_belief": "Undisclosed",
+                "personal_goals": "Helping Bella_Buckerfield navigate her career path",
+                "moral_conflict": "Undisclosed",
+                "values": "Mentorship, leadership, and authenticity",
+                "key_events": "Undisclosed",
+                "conflict": "Undisclosed",
+                "actions": " Advocates for Bella_Buckerfield"
+            }
+        }
+    },
+    "Liana_Mendoza": {
+        "role": "Colleague",
+        "age": 30,
+        "job": "Business Analyst",
+        "Race": "Caucasian & Asian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Close friend, Colleague",
+            "Matilda_Fletcher": "Line Manager",
+            "Ben_Alcott": "Colleague",
+            "Kate_Anderson": "Associate",
+            "Alex_Haynes": "Associate",
+            "Priya_Desai": "Colleague",
+            "Tom_Wainwright": "Colleague",
+            "Matthew_Harding": "Colleague"
+        },
+        "evolution": {
+            "1": {
+                "emotion": " Friendly, curious, occasionally cheeky",
+                "relationship_status": "Undisclosed",
+                "motivation": "",
+                "internal_conflict": "",
+                "decision_making": "",
+                "external_conflict": "",
+                "growth": "",
+                "physical_health": "",
+                "mental_health": "",
+                "appearance": "",
+                "self_image": "",
+                "core_belief": "",
+                "personal_goals": "",
+                "moral_conflict": "",
+                "values": "",
+                "key_events": "",
+                "conflict": "",
+                "actions": ""
+            }
+        }
+    },
+    "Priya_Desai": {
+        "role": "Technology Specialist",
+        "age": 36,
+        "job": "Solutions Developer and Infrastructure Specialist",
+        "Race": "Asian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Colleague",
+            "Ben_Alcott": "Colleague",
+            "Liana_Mendoza": "Colleague",
+            "Matilda_Fletcher": "Colleague",
+            "Tom_Wainwright": "Colleague",
+            "Matthew_Harding": "Colleague"
+        }
+    },
+    "Matthew_Harding": {
+        "role": "Risk Specialist",
+        "age": "42",
+        "job": "Financial Solutions Architect and Risk and Compliance Specialist ",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Colleague",
+            "Ben_Alcott": "Colleague",
+            "Liana_Mendoza": "Colleague",
+            "Matilda_Fletcher": "Colleague",
+            "Priya_Desai": "Colleague",
+            "Tom_Wainwright": "Colleague"
+        }
+    },
+    "Tom_Wainwright": {
+        "role": "Cybersecurity Analyst",
+        "age": 45,
+        "job": "Cybersecurity Analyst ",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Colleague",
+            "Ben_Alcott": "Colleague",
+            "Liana_Mendoza": "Colleague",
+            "Matilda_Fletcher": "Colleague",
+            "Priya_Desai": "Colleague",
+            "Matthew_Harding": "Colleague"
+        }
+    },
+    "Simon_Ashworth": {
+        "role": "Managing Director",
+        "age": 46,
+        "job": "Managing Director ",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Colleague",
+            "Ben_Alcott": "Colleague"
+        },
+        "evolution": {
+            "1": {
+                "emotion": "",
+                "relationship_status": "",
+                "motivation": "",
+                "internal_conflict": "",
+                "decision_making": "",
+                "external_conflict": "",
+                "growth": "",
+                "physical_health": "",
+                "mental_health": "",
+                "appearance": "",
+                "self_image": "",
+                "core_belief": "",
+                "personal_goals": "",
+                "moral_conflict": "",
+                "values": "",
+                "key_events": "",
+                "conflict": "",
+                "actions": ""
+
+            }
+        }
+    },
+    "Kate_Anderson": {
+        "role": "Friend",
+        "age": 34,
+        "job": "Undisclosed ",
+        "Race": "Caucasian",
+        "Ethnicity": "British",
+        "Socio-Economic Status": "Middle Class",
+        "relationships": {
+            "Bella_Buckerfield": "Friend, Love Rival",
+            "Alex_Haynes": "Friend, Lover",
+            "Liana_Mendoza": "Associate"
+        },
+        "evolution": {
+            "1": {
+                "emotion": "",
+                "relationship_status": "",
+                "motivation": "",
+                "internal_conflict": "",
+                "decision_making": "",
+                "external_conflict": "",
+                "growth": "",
+                "physical_health": "",
+                "mental_health": "",
+                "appearance": "",
+                "self_image": "",
+                "core_belief": "",
+                "personal_goals": "",
+                "moral_conflict": "",
+                "values": "",
+                "key_events": "",
+                "conflict": "",
+                "actions": ""
+            }
+        }
+    }
+}
